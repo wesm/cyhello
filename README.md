@@ -1,0 +1,4 @@
+cyhello
+=======
+
+Minimal Cython project
